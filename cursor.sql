@@ -1,6 +1,9 @@
 ﻿use HowKteam
 go
 
+sửa 1 chút để thực hành git
+
+
 -- khi có nhu cầu duyệt từng record của bảng. với mỗi record có kết quả xử lý riêng thì dùng cursos
 
 -- declare <tên con trỏ> cursor for < câu select>
