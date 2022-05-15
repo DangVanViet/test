@@ -3,7 +3,11 @@ go
 
 sửa 1 chút để thực hành git
 
+<<<<<<< HEAD
 ko biết coonflic 
+=======
+cố ý để conflic 
+>>>>>>> 5b83370aa97d6aaf2d593f0008f2bf2b97f6498a
 
 
 -- khi có nhu cầu duyệt từng record của bảng. với mỗi record có kết quả xử lý riêng thì dùng cursos
