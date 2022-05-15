@@ -3,6 +3,8 @@ go
 
 sửa 1 chút để thực hành git
 
+cố ý để conflic 
+
 
 -- khi có nhu cầu duyệt từng record của bảng. với mỗi record có kết quả xử lý riêng thì dùng cursos
 
